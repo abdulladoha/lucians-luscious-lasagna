@@ -1,4 +1,4 @@
-Introduction
+**Introduction**
 Basics
 C# is a statically-typed language, which means that everything has a type at compile-time. Assigning a value to a name is referred to as defining a variable. A variable can be defined either by explicitly specifying its type, or by letting the C# compiler infer its type based on the assigned value (known as type inference). Therefore, the following two variable definitions are equivalent:
 
